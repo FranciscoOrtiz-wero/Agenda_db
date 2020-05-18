@@ -1,4 +1,0 @@
-user:jf
-password:SqL1380
-host:localhost
-database:agenda_db
